@@ -1,7 +1,7 @@
 ---
-layout: splash
+layout: single
 permalink: /about/
 
 ---
-##Florian Vandenabeele
+#Florian Vandenabeele
 Applied Informatics Student - 3th year @ Howest - Bruges - Belgium.
