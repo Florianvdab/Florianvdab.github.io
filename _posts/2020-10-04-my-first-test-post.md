@@ -2,7 +2,6 @@
 layout: single
 title: "Welcome to Jekyll!"
 date: 2020-10-04
-categories: Jekyll
 
 ---
 
