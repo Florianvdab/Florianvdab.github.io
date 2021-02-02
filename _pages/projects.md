@@ -5,7 +5,7 @@ excerpt: "Florian Vandenabeele"
 permalink: /projects/
 ---
 
-# My proudest creations: 
+# My proudest creations:
 
 ## [React-Native iOS app](https://www.youtube.com/watch?v=UkR1yAR3Rus&feature=youtu.be)
 
@@ -35,7 +35,7 @@ permalink: /projects/
 
 ## [Wild Animals Tracking: An IoT Solution](https://ict-week-group6.herokuapp.com/)
 
-> Created in 2019 @ EPHEC 
+> Created in 2019 @ EPHEC
 >
 > Abroad school project - An IoT solution to track wild animals with an IoT device over the Lora WAN Network
 
