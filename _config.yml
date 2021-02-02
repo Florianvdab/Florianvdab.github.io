@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Florian Vandenabeele"
 title_separator          : "-"
-subtitle                 : A blog about interesting topics in the ICT world
+subtitle                 : "Hang Tough" Maj. Richard Dick Winters
 name                     : "Florian Vandenabeele"
-description              : "A blog website created for school."
+description              : "Personal Page of Florian Vandenabeele."
 url                      : https://florianvdab.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : florianvdab/florianvdab.github.io
