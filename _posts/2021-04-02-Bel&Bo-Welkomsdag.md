@@ -15,7 +15,7 @@ date: 2021-03-09
 >
 > **Waar**: @ Home
 >
-> **Site: **[Bel&Bo](https://www.bel-bo.be/)
+> **Site:** [Bel&Bo](https://www.bel-bo.be/)
 
 De introductie dag van Bel&Bo nam plaats op 2 maart 2021. Dit evenement komt rechtstreeks vanuit mijn stage en was verplicht voor elke nieuwe werknemer/stagiair. Dit telt dus ook voor de nieuwe verkopers/jobstudenten in de verkoop winkels. Alhoewel dit evenement niet gericht was op een puur IT onderwerp was het wel noodzakelijk om een beter verstaan te krijgen van de retail wereld waar ik tewerk was gesteld tijdens mijn stage. 
 
