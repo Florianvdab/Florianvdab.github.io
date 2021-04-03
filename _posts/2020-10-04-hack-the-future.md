@@ -13,7 +13,7 @@ Hack The Future werkte dus ook met teams, omdat ik Anton Plancke al jaren ken wa
 
 ![](https://hackthefuture.be/uploads/_1200x675_crop_center-center_none/HTF-Home-Fold-Copy-2.png)
 
-## Hoe, Wat, Waar, Wanneer?
+## Hoe, Wat, Waar & Wanneer?
 
 > **Wanneer**: 24 november 2020
 >
