@@ -7,6 +7,12 @@ permalink: /projects/
 
 # My proudest creations:
 
+## POS System @ Bel&Bo
+
+> Bachelor Intership project @ Bel&Bo
+>
+> A Point of Sale system written in C# capable of handling everything that's necessary to work in a store. Some features: (Discounts, scanning, printing tickets, payment terminal integration, ... )
+
 ## [React-Native iOS app](https://www.youtube.com/watch?v=UkR1yAR3Rus&feature=youtu.be)
 
 > Created in 2020-2021 as a school assignment

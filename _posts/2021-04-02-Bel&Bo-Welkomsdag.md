@@ -15,7 +15,7 @@ date: 2021-03-09
 >
 > **Waar**: @ Home
 >
-> **Site: **(Bel&Bo)[https://www.bel-bo.be/]
+> **Site: **[Bel&Bo](https://www.bel-bo.be/)
 
 De introductie dag van Bel&Bo nam plaats op 2 maart 2021. Dit evenement komt rechtstreeks vanuit mijn stage en was verplicht voor elke nieuwe werknemer/stagiair. Dit telt dus ook voor de nieuwe verkopers/jobstudenten in de verkoop winkels. Alhoewel dit evenement niet gericht was op een puur IT onderwerp was het wel noodzakelijk om een beter verstaan te krijgen van de retail wereld waar ik tewerk was gesteld tijdens mijn stage. 
 
@@ -140,9 +140,9 @@ Ook maakt Bel&Bo gebruik van advertising. Dit kwam ook kort aan bod bij de E-Com
 
 Bel&Bo maakt gebruikt van folders, mond aan mond reclame en marketing in de winkel. Maar ook via influencers, sociale media en mailing. Verder zijn er ook nog speciale collecties: 
 
-- (Frances)[https://www.bel-bo.be/frances/collectie.html]
-- (Vivella)[https://www.bel-bo.be/dames/grote-maten-vivella.html]
-- (Nina)[https://www.bel-bo.be/dames/in-de-kijker/nina-x-vivella.html]
+- [Frances](https://www.bel-bo.be/frances/collectie.html)
+- [Vivella](https://www.bel-bo.be/dames/grote-maten-vivella.html)
+- [Nina](https://www.bel-bo.be/dames/in-de-kijker/nina-x-vivella.html)
 
 <img src="..\assets\images\image-20210403121702532.png" alt="image-20210403121702532" style="zoom:50%;" />
 
