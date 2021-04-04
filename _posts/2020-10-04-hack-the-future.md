@@ -5,15 +5,13 @@ date: 2020-11-24
 
 ---
 
-# Hack The Future
-
 Voor Hack The Future had ik nog nooit echt meegewerkt aan een hackaton. Ik moet toegeven dat ik aangenaam verrast was over wat een hackaton precies was. Vroeger dacht ik dat het ook effectief te maken had met inbreken zonder effectieve toegang te hebben, maar door deze hackaton heb ik geleerd dat het eigenlijk gezamenlijk een project creëren is. 
 
 Hack The Future werkte dus ook met teams, omdat ik Anton Plancke al jaren ken was het een erg logische keuze om dit samen met hem te doen. We zijn beiden goed vertrouwt met elkaar, en elkaars manier van werken dus alles verliep erg vlot tussen ons. Als groepsnaam kozen we "Prinsesjes", beetje humor kan nooit kwaad!
 
 ![](https://hackthefuture.be/uploads/_1200x675_crop_center-center_none/HTF-Home-Fold-Copy-2.png)
 
-## Hoe, Wat, Waar & Wanneer?
+# Hoe, Wat, Waar & Wanneer?
 
 > **Wanneer**: 24 november 2020
 >
@@ -27,7 +25,7 @@ Door COVID-19 vond deze editie van Hack The Future online plaats. Aangezien ik n
 
 Hack The Future had een online platform voorzien voor ons dat wat meehad van de befaamde Lord of The Rings serie. Je kreeg een unieke link met de mogelijkheid om een character te creëren en met dat character in de verschillende ruimtes te gaan. Anton en ik gingen dus eerst naar de verzamelruimte om de introductie mee te volgen en later naar de JavaScript ruimte om te luisteren wat onze opdracht precies inhield. 
 
-## De opdracht
+# De opdracht
 
 De context van de opdracht heb ik nog voor jullie dus deze plaats ik hier even: "We desperately need the best JavaScript hackers around the world to save us from a world-wide blackout! All Google servers are infected and are exponentially throwing more errors. We can't shutdown all servers at once. We need you to visualise the servers to find the super spreaders and put them in lockdown!"
 
@@ -36,7 +34,7 @@ De context van de opdracht heb ik nog voor jullie dus deze plaats ik hier even: 
 - ⚡  Isolate
 - 🔥 Bonus: Fix JS errors
 
-### 🔐 Identify
+## 🔐 Identify
 
 Even wat korte context: We're not writing our world saving application for any fool to access it! Secure your webpages!
 
@@ -89,7 +87,7 @@ function setCookie(name, value, ttl) {
 }
 ```
 
-### 🔍  Visualise
+## 🔍  Visualise
 
 Even weer een korte context: Once you're logged in, you have access to the following data:
 
@@ -179,7 +177,7 @@ render() {
 }
 ```
 
-### ⚡  Isolate
+## ⚡  Isolate
 
 Plug the power of the datacenter throwing the most errors!
 
@@ -193,7 +191,7 @@ Aangezien Anton en ik al zoveel tijd hadden verloren bij de vorige 2 topics zate
 
 ![image-20210404103012579](..\assets\images\image-20210404103012579.png)
 
-## Reflectie
+# Reflectie
 
 Zowel Anton en ik vonden het een geweldige belevenis en hebben ons geamuseerd op deze dag. We hebben beiden veel bijgeleerd over React.js & API's. Het was zeker de moeite waard en ik zou met veel plezier nog eens meedoen aan de volgende editie, maar deze keer misschien een ander topic. Ondanks we niet op een erg hoge plaats belandden ben ik erg tevreden over ons werk. 
 
