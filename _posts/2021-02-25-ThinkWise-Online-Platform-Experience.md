@@ -18,7 +18,7 @@ Eerst wil ik jullie wel even toelichten over low code. Low code is een snelle en
 
 # De agenda van de dag!
 
-![image-20210405210955669](C:\Users\Flori\AppData\Roaming\Typora\typora-user-images\image-20210405210955669.png)
+![image-20210405210955669](..\assets\images\image-20210405210955669.png)
 
 # Thinkwise
 
@@ -34,7 +34,7 @@ Tijdens deze webinar kwamen er meerdere demo's aan bod. Deze demo was een voorbe
 
 In de onderstaande foto kan je de architectuur zien van Thinkwise, dit ziet er in principe heel ingewikkeld uit maar het simpelste om te onthouden is : Thinkwise zorgt ervoor dat er nooit opnieuw moet ontwikkeld worden, als er een nieuw tijdperk aangebroken is om bijvoorbeeld te wisselen van taal, word er nooit gerecycled maar ge-upcycled. Dit wil zeggen dat ze werken op een bepaalde manier dat er nooit opnieuw moet ontwikkeld worden bij nieuwe upgrades. Ook is er een stukje over "testing-productie-acceptie" maar dat is standaard en niet erg speciaal. 
 
-![image-20210405213950877](C:\Users\Flori\AppData\Roaming\Typora\typora-user-images\image-20210405213950877.png)
+![image-20210405213950877](..\assets\images\image-20210405213950877.png)
 
 # Platform Demo
 
