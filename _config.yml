@@ -12,13 +12,13 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "en-US"
 title: "Florian Vandenabeele"
 title_separator: "-"
-subtitle: &#34;Hang Tough.&#34; Maj. Richard Dick Winters
+subtitle: "&#34;Hang Tough.&#34; Maj. Richard Dick Winters"
 name: "Florian Vandenabeele"
 description: "Personal Page of Florian Vandenabeele."
 url: https://florianvdab.github.io
