@@ -4,53 +4,103 @@ title: "Welcome to my blog. Made in Jekyll!"
 date: 2020-10-04
 ---
 
-# Welcome
+## Welcome
 
-**Hello world**, this is my first Jekyll post.
-I hope you like it!
+**Hello world**, this is my first Jekyll post. In mijn aller eerste post zal ik uitleggen hoe je Jekyll installeert, een thema op Jekyll plaatst, hoe je blogposts aanpast, wat basic configuratie aanpast en op het einde nog wat leuke tips om te werken in Markdown. 
 
-## Installation
+# Installatie
 
 1. [Jekyll](https://jekyllrb.com/docs/)
 2. [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)
 
-I first installed Jekyll! I used the official documentation to do this. But as it started to turn out I figured I wanted to use a theme. After looking for a theme that suited me I found out that it's alot easier to just fork it via Github and host it in on github pages for free!
+Eerst en vooral moet Jekyll geïnstalleerd worden, want Minimal Mistakes is een thema voor Jekyll. Jekyll kan je gratis trouwens gratis hosten op GitHub Pages. Om Jekyll te installeren heb ik simpelweg de DOCS gevolgd van Jekyll. 
 
-Since I'm looking for a cheap/free option that doesn't require me to learn alot of new stuff this was the perfect option.
+## Prerequisites
 
-## Edit files
+https://jekyllrb.com/docs/installation/
 
-Editing I did mainly in the \_config.yml file. This file takes care of the most important things such as links, a bio, and so on.
+Voor je aan het werk kan met Jekyll moeten er enkele dingen geïnstalleerd worden, zoals Ruby. Ruby is een programmeertaal die het mogelijk maakt om gems te installeren. Dit komt aan bod bij het installeren van Jekyll dus zeker belangrijk!
 
-## Creating a blogpost
+## Instructions
 
-To create a blogpost you just create a .md file in the \_posts folder and that's it. (ofcourse respecting the format:YEAR-MONTH-DAY-title.MARKUP -> 2011-12-31-new-years-eve-is-awesome.md)
+Om Jekyll te installeren zijn er 6 stappen. De eerste was al het installeren van de "prerequisites" van het bovenstaande hoofdstukje. De volgende 6 stappen zijn als volgt:
 
-All you have to do is add some markdown for the layout and title and you're ready to go. Jekyll has a very easy way of working and since I didn't really bother with a CMS I can just write down notes in markdown and later on convert all my notes to a full blog post.
+- Install all prerequisites
+- Install the jekyll and bundler gems
 
-This probably isn't the best way of working since a CMS is better for blogging. But I do have to admit this way is way cooler than the occasional CMS like WordPress.
+```
+gem install jekyll bundler
+```
 
-[Creating a post by Jekyll](https://jekyllrb.com/docs/posts/)
+- Create a new Jekyll site at ./myblog.
 
-## Creating a page
+```
+jekyll new myblog
+```
 
-Since I'm planning on using this website as a form of portfolio I wanted to have an about page.
+- Change into your new directory
 
-To create a page there's multiple options. You can do it via html & md. My theme has everything already set up so all I had to do was make a .md file in the \_pages map. Because the .html was already set-up I just had to provide some content and edit a few little things in the \_site\about map.
+```
+cd myblog
+```
 
-[Creating a page by Jekyll](https://jekyllrb.com/docs/pages/)
+- Build the site and make it available on a local server
+
+```
+bundle exec jekyll serve
+```
+
+- Browse to http://localhost:4000
+
+Het proces van het installeren is erg simpel en gemakkelijk. Het hosten is ook een makkie dankzij GitHub Pages. Het enige wat er dan echt nog moet gebeuren is enkele kleine aanpassingen. Als dat klaar is kunnen we aan de slag met het maken van de markdown blog posts. 
+
+Maar voor we overgaan naar die stappen! Wat is "GitHub Pages" nu precies? Het zorgt ervoor dat er een statische website kan gehost worden via een Git Repository. Alles wat ik dus moest doen om het werkende te krijgen was een GitHub Pages repo aanmaken en daar in de content van mijn zojuist gemaakte Jekyll te plaatsen. 
+
+## Thema installeren
+
+Om me niet te moeten bezighouden met de lay-out van de website ben ik opzoek gegaan naar een gepast thema. Daar kwam ik Minimal Mistakes tegen. Ondertussen had ik Jekyll al geïnstalleerd maar was dit proces een beetje overbodig. Ik kon simpelweg de GitHub van Minimal Mistakes te forken en zo hem meteen te hosten zonder dat echt iets moest geïnstalleerd worden. 
+
+Dit proces is erg simpel maar voor de zekerheid zal ik de link meegeven die ik heb gebruikt.  https://github.com/mmistakes/minimal-mistakes
+
+## Configuratie
+
+De meeste configuratie heb ik gedaan in de _config.yml file. Deze file bevat  de belangrijkste opties zoals links, bio, avatar,... Om wat te verduidelijken kan je een voorbeeld zien hiervan hieronder. 
+
+![image-20210513111842823](C:\Users\Flori\Documents\Github\Florianvdab.github.io\florianvdab.github.io\assets\images\image-20210513111842823.png)
+
+## Een pagina aanmaken
+
+[Creating a page - Jekyll DOCS](https://jekyllrb.com/docs/pages/)
+
+Voor ik aan de slag ging met het aanmaken van posts heb ik snel eens de guidelines geraadpleegd. Het is belangrijk dat er een bepaalde werkwijze wordt gehanteerd, ook al is er een thema aanwezig. Daar vond ik onder andere dat men pagina's kan aanmaken. Aangezien ik graag een pagina had gemaakt waar ik al mijn verwezenlijkingen op kon plaatsen ben ik hier dus mee aan de slag gegaan. Het is een simpel proces en kan ook gedaan worden met markdown. Hoe je het precies doet is een .html of .md file aanmaken in de _pages folder. Voor wat meer duidelijkheid verwijs ik jullie graag ook door naar de guide (zie URL onder titel). Een voorbeeld van de markdown file die ik heb aangemaakt voor mijn Projects pagina staat hieronder. 
+
+![image-20210513105101641](C:\Users\Flori\Documents\Github\Florianvdab.github.io\florianvdab.github.io\assets\images\image-20210513105101641.png)
+
+## Een blogpost aanmaken
+
+[Creating a post - Jekyll DOCS](https://jekyllrb.com/docs/posts/)
+
+Om een blogpost te maken maakt u gewoon een markdown bestand aan in de map \_posts en dat is het. (natuurlijk met inachtneming van het formaat: JAAR-MAAND-DAG-titel.MARKUP -> 2011-12-31-nieuw-jaar-is-awesome.md)
+
+Alles wat je hoeft te doen is wat markdown toevoegen voor de lay-out en titel en je bent klaar! Jekyll heeft een zeer gemakkelijke manier van werken en aangezien ik niet echt de moeite heb genomen met een CMS kan ik gewoon notities in markdown opschrijven en later al mijn notities omzetten naar een volledige blog post.
+
+Dit is waarschijnlijk niet de beste manier van werken aangezien een CMS beter is voor bloggen. Maar ik moet toegeven dat deze manier veel cooler is dan het occasionele CMS zoals WordPress.
 
 ## Editing in a decent environment.
 
-To work in a decent environment is a necessity. I don't want to be bothered to push everytime I want to see a change.
-Luckily you can do this via jekyll serve. But since this theme uses a gemfile it's required for me to run a command over bundle. To do this I use the command: "bundle exec jekyll serve"
+Werken in een fatsoenlijke omgeving is een noodzaak. Ik wil niet telkens lastig gevallen worden om een wijziging te zien.
+Gelukkig kun je dit doen via Jekyll serve. Maar omdat dit thema een gemfile gebruikt is het nodig voor mij om een commando over bundel te draaien. Om dit te doen gebruik ik het onderstaande commando: 
 
-## Useful links
+```
+bundle exec jekyll serve
+```
+
+## Handige links
 
 - [Typora](https://typora.io/)
 
-Typora is a very handy markdown editor. I use this instead of word or the basic notepad.
+Typora is een erg handige markdown editor. Ik gebruik dit in plaats van Word of het gewone kladblok.
 
 - [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-Sure markdown is easy but I don't know every little thing out of the top of my head. So this came in quite handy aswel.
+Natuurlijk is markdown makkelijk, maar ik weet niet alles uit mijn hoofd. Dus dit kwam ook goed van pas.
