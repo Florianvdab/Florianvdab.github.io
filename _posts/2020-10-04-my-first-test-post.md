@@ -66,7 +66,7 @@ Dit proces is erg simpel maar voor de zekerheid zal ik de link meegeven die ik h
 
 De meeste configuratie heb ik gedaan in de _config.yml file. Deze file bevat  de belangrijkste opties zoals links, bio, avatar,... Om wat te verduidelijken kan je een voorbeeld zien hiervan hieronder. 
 
-![image-20210513111842823](C:\Users\Flori\Documents\Github\Florianvdab.github.io\florianvdab.github.io\assets\images\image-20210513111842823.png)
+![image-20210513111842823](https://florianvdab.github.io/assets/images/image-20210513111842823.png)
 
 ## Een pagina aanmaken
 
@@ -74,7 +74,7 @@ De meeste configuratie heb ik gedaan in de _config.yml file. Deze file bevat  de
 
 Voor ik aan de slag ging met het aanmaken van posts heb ik snel eens de guidelines geraadpleegd. Het is belangrijk dat er een bepaalde werkwijze wordt gehanteerd, ook al is er een thema aanwezig. Daar vond ik onder andere dat men pagina's kan aanmaken. Aangezien ik graag een pagina had gemaakt waar ik al mijn verwezenlijkingen op kon plaatsen ben ik hier dus mee aan de slag gegaan. Het is een simpel proces en kan ook gedaan worden met markdown. Hoe je het precies doet is een .html of .md file aanmaken in de _pages folder. Voor wat meer duidelijkheid verwijs ik jullie graag ook door naar de guide (zie URL onder titel). Een voorbeeld van de markdown file die ik heb aangemaakt voor mijn Projects pagina staat hieronder. 
 
-![image-20210513105101641](C:\Users\Flori\Documents\Github\Florianvdab.github.io\florianvdab.github.io\assets\images\image-20210513105101641.png)
+![image-20210513105101641](https://florianvdab.github.io/assets/images/image-20210513105101641.png)
 
 ## Een blogpost aanmaken
 
