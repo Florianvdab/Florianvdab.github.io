@@ -4,8 +4,6 @@ title: "Welcome to my blog. Made in Jekyll!"
 date: 2020-10-04
 ---
 
-## Welcome
-
 **Hello world**, this is my first Jekyll post. In mijn aller eerste post zal ik uitleggen hoe je Jekyll installeert, een thema op Jekyll plaatst, hoe je blogposts aanpast, wat basic configuratie aanpast en op het einde nog wat leuke tips om te werken in Markdown. 
 
 # Installatie
