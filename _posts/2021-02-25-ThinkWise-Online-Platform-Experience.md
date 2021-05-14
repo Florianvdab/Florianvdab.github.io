@@ -46,9 +46,11 @@ Wat ook erg opviel was hoe het platform erg gericht is naar een ERP oplossing. H
 
 Wat wel opviel was hoe het er allemaal wel wat complex uit zag, ook al wordt low code altijd beschreven als een gemakkelijk manier van het ontwikkelen van apps. Verder was het erg interessant om alles eens snel te doorbladeren maar was het voor mij zeker niet voldoende om te geloven in low code. Daarom zal ik dus ook voor mijn bachelor proef zelf eens een kijkje nemen in de demo!
 
-# Conclusie
+# Reflectie
 
-Zelf ben ik niet meteen voorstander van low-code, daarom luid mijn bachelorproef onderzoeksvraag "Is low code the future?". Zelf was ik niet meteen erg onder de indruk van het platform maar ik kan wel zeker het nut ervan inzien. Zelf bied Thinkwise ook opleidingen aan voor bedrijven die uiteindelijk de stap maken naar low code. Dit zelf vond ik een erg goed concept aangezien het toch wel complex uitzag. 
+Zelf ben ik niet meteen voorstander van low-code, daarom luid mijn bachelorproef onderzoeksvraag "Is low code effective?". Zelf was ik niet meteen erg onder de indruk van het platform maar ik kan wel zeker het nut ervan inzien. 
+
+Zelf bied Thinkwise ook opleidingen aan voor bedrijven die uiteindelijk de stap maken naar low code. Dit zelf vond ik een erg goed concept aangezien het toch wel complex uitzag. 
 
 Verder was ik wel onder de indruk van hun uitwerking om zo future-proof te werk te gaan en zo weinig mogelijk lasten bij de klant te leggen. Het is een erg doordacht en goed systeem die hun zeker een top plaats op de low-code markt bezorgd! 
 

@@ -5,7 +5,7 @@ date: 2021-03-09
 
 ---
 
-*Eerst en vooral: dit evenement is niet publiek toegankelijk en is niet (volledig) over IT, maar aangezien ik mijn stage in het bedrijf doe is het zeker de moeite waard om te documenteren en bespreken. Het was een leerrijke ervaring!*
+*Beste lezers, eerst en vooral wil ik iets mededelen: dit evenement was niet publiek toegankelijk en is niet (volledig) over IT, maar aangezien ik mijn stage in het bedrijf doe is het van onschatbare waarde om te documenteren en bespreken. *
 
 # Hoe, Wat, Waar & Wanneer?
 
@@ -182,4 +182,16 @@ De helft wordt bus aan bus bedeeld, om zo ook nieuwe klanten te bereiken. Dit ge
 
 Verder kwamen er nog enkele topics aan bod zoals combinatieverkoop, bij-verkoop en een volledig uitleg over hoe de HR te werk gaat. Wegens het gebrek aan IT sla ik deze gedeeltes over! Het was een erg boeiende en interessante dag en zeker een meerwaarde aan mijn IT opleiding. Ik geef zeker toe dat alles vrij algemeen was en er niet erg veel specifiek IT was maar alles hoort uiteindelijk toch samen te werken en zo merkte ik overal op waar IT een invloed op heeft. 
 
-Moesten er nog vragen zijn over Bel&Bo, mijn stageperiode of mijn POS project contacteer me zeker op mijn ABOUT pagina! Bedankt voor het lezen en "Hang Tough!"
+# Reflectie
+
+Dit evenement was voor mij van onschatbare waarde, ik heb enorm veel geleerd over de werking van Bel&Bo, hoe er met verschillende situaties word omgegaan, welke afdelingen er allemaal zijn en hoe alles onderling geregeld wordt. 
+
+Deze webinar heeft enorm veel bijgedragen aan hoe ik te werk ging op mijn stageplaats en zorgde ervoor dat ik heel wat minder vragen moest stellen aan mede collega's.
+
+Wat me wel opviel was hoe de IT afdeling niet erg veel aan bod kwam in de webinar maar hoe het keer op keer mij opviel hoe het in de meeste aanwezig is. Door de gemaakte software, het kassasysteem, enz... 
+
+Volgens mij onderschatten nog veel bedrijven de kracht van IT afdeling en jammer genoeg vrees ik dat Bel&Bo één van deze bedrijven is. 
+
+Desondanks was het erg leerrijk en fijn om mee te volgen en te converseren met collega's, ploegbazen, enz...
+
+Moesten er nog vragen zijn over Bel&Bo, mijn stageperiode of mijn POS project contacteer me zeker op mijn ABOUT pagina!

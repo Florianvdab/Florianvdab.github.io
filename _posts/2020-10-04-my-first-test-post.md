@@ -11,15 +11,15 @@ date: 2020-10-04
 1. [Jekyll](https://jekyllrb.com/docs/)
 2. [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/)
 
-Eerst en vooral moet Jekyll geïnstalleerd worden, want Minimal Mistakes is een thema voor Jekyll. Jekyll kan je gratis trouwens gratis hosten op GitHub Pages. Om Jekyll te installeren heb ik simpelweg de DOCS gevolgd van Jekyll. 
+Eerst en vooral moet Jekyll geïnstalleerd worden, want Minimal Mistakes is een thema voor Jekyll. Jekyll kan je gratis hosten op GitHub Pages. GitHub Pages is een uitvinding van GitHub om via een repository live een statische website te hosten. Om Jekyll te installeren heb ik simpelweg de DOCS gevolgd van Jekyll. 
 
 ## Prerequisites
 
-https://jekyllrb.com/docs/installation/
+[Prerequisites - Jekyll DOCS](https://jekyllrb.com/docs/installation/)
 
 Voor je aan het werk kan met Jekyll moeten er enkele dingen geïnstalleerd worden, zoals Ruby. Ruby is een programmeertaal die het mogelijk maakt om gems te installeren. Dit komt aan bod bij het installeren van Jekyll dus zeker belangrijk!
 
-## Instructions
+# Instructions
 
 Om Jekyll te installeren zijn er 6 stappen. De eerste was al het installeren van de "prerequisites" van het bovenstaande hoofdstukje. De volgende 6 stappen zijn als volgt:
 
@@ -54,19 +54,19 @@ Het proces van het installeren is erg simpel en gemakkelijk. Het hosten is ook e
 
 Maar voor we overgaan naar die stappen! Wat is "GitHub Pages" nu precies? Het zorgt ervoor dat er een statische website kan gehost worden via een Git Repository. Alles wat ik dus moest doen om het werkende te krijgen was een GitHub Pages repo aanmaken en daar in de content van mijn zojuist gemaakte Jekyll te plaatsen. 
 
-## Thema installeren
+# Thema installeren
 
 Om me niet te moeten bezighouden met de lay-out van de website ben ik opzoek gegaan naar een gepast thema. Daar kwam ik Minimal Mistakes tegen. Ondertussen had ik Jekyll al geïnstalleerd maar was dit proces een beetje overbodig. Ik kon simpelweg de GitHub van Minimal Mistakes te forken en zo hem meteen te hosten zonder dat echt iets moest geïnstalleerd worden. 
 
 Dit proces is erg simpel maar voor de zekerheid zal ik de link meegeven die ik heb gebruikt.  https://github.com/mmistakes/minimal-mistakes
 
-## Configuratie
+# Configuratie
 
 De meeste configuratie heb ik gedaan in de _config.yml file. Deze file bevat  de belangrijkste opties zoals links, bio, avatar,... Om wat te verduidelijken kan je een voorbeeld zien hiervan hieronder. 
 
 ![image-20210513111842823](https://florianvdab.github.io/assets/images/image-20210513111842823.png)
 
-## Een pagina aanmaken
+# Een pagina aanmaken
 
 [Creating a page - Jekyll DOCS](https://jekyllrb.com/docs/pages/)
 
@@ -74,7 +74,7 @@ Voor ik aan de slag ging met het aanmaken van posts heb ik snel eens de guidelin
 
 ![image-20210513105101641](https://florianvdab.github.io/assets/images/image-20210513105101641.png)
 
-## Een blogpost aanmaken
+# Een blogpost aanmaken
 
 [Creating a post - Jekyll DOCS](https://jekyllrb.com/docs/posts/)
 
@@ -84,7 +84,7 @@ Alles wat je hoeft te doen is wat markdown toevoegen voor de lay-out en titel en
 
 Dit is waarschijnlijk niet de beste manier van werken aangezien een CMS beter is voor bloggen. Maar ik moet toegeven dat deze manier veel cooler is dan het occasionele CMS zoals WordPress.
 
-## Editing in a decent environment.
+# Editing in a decent environment.
 
 Werken in een fatsoenlijke omgeving is een noodzaak. Ik wil niet telkens lastig gevallen worden om een wijziging te zien.
 Gelukkig kun je dit doen via Jekyll serve. Maar omdat dit thema een gemfile gebruikt is het nodig voor mij om een commando over bundel te draaien. Om dit te doen gebruik ik het onderstaande commando: 
