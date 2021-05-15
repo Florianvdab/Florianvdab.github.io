@@ -16,6 +16,8 @@ Na het uiteindelijke besef te hebben van wat er aan de hand was ben ik terecht g
 
 **so without further ado, let's talk about the interview!**
 
+[Link to the interview](https://youtu.be/j3UkRFyaALI)
+
 # Freedom
 
 In het begin spreekt Jocko over twee grote soorten vrijheid. Financiële vrijheid en vrije tijd. Hij verklaart hier hoe je beide problemen kan oplossen met discipline. Een heel herkenbaar punt dat hij maakte was hoe je soms doelloos maar zit door YouTube te bladeren en zoveel tijd verspilt terwijl je eigenlijk aan het werk zou moeten zijn.  Al deze dingen kan je oplossen met discipline aan te leren. Hij spreekt ook hoe het vaak vrij counter-intuïtief is met als voorbeeld het doorslapen dat we maar al te graag doen. Als we doorslapen verspillen we jammer genoeg ook tijd, het is niet altijd nodig en voelt wel als vrijheid maar limiteert de tijd die nodig is om onze taken te doen. 
