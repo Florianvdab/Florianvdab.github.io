@@ -6,13 +6,15 @@ date: 2021-03-24
 
 Na het volgen van meerdere pure informatica sessies heb ik eindelijk besloten om eens aandachtig een interview mee te volgen in een ander genre. Het genre van dit interview zou ik beschrijven als professionalisering. Want hoe dan ook, hoeveel kennis ik ook mag vergaren over informatica onderdelen, als ik niet de correcte ingesteldheid heb om professioneel te werk te gaan hou ik het nooit vol.
 
-Het interview is tussen SUCCESS (een magazine) en Jocko Willink is een gepensioneerd Navy SEAL (Amerikaanse Special Forces) die zich momenteel bezig houd met het schrijven van boeken, opnemen van podcasts en het aanleren van leiderschap aan bedrijven via zijn eigen bedrijf genaamd: Origin USA. 
+Het interview is tussen SUCCESS (een magazine) en Jocko Willink. Jocko is een gepensioneerd Navy SEAL (Amerikaanse Special Forces) die zich momenteel bezig houd met het schrijven van boeken, opnemen van podcasts en het aanleren van leiderschap aan bedrijven via zijn eigen bedrijf genaamd: Origin USA. 
 
 <img src="https://i.pinimg.com/736x/a5/9a/d5/a59ad5ab287e1565b392620d5080737e.jpg" alt="img" style="zoom: 33%;" />
 
 Om een beetje context te geven over waarom deze onderwerpen zo belangrijk zijn voor mij en mogelijks ook voor anderen: enkele jaren terug zijn mijn ouders beginnen scheiden en stond ik er opeens alleen voor met een eigen huishouden en een situatie waar ik samenwoon met 1 iemand anders. Al heel snel zakte ik weg in een depressief putje en deed ik geen moeite voor mijn opleiding of om mezelf gezond te houden. 
 
-Na het uiteindelijke besef te hebben van wat er aan de hand was ben ik terecht gekomen bij Jocko Willink. Deze man heeft me dingen geleerd die van pas gekomen zijn in mijn leven sinds. Dingen zoals dat **discipline zorgt voor vrijheid, dat leidinggevende een enorme verantwoordelijkheid hebben, hoe je misschien niet technisch bent aangelegd maar het daarvoor wel nog kan leren, hoe je niet moet opgeven, hoe tegenslagen normaal zijn en hoe je ermee om kunt gaan en de aller belangrijkste voor mij. Never ever give up hope.** Dus zonder nog verdere introductie. Laat ik wat praten over het interview!
+Na het uiteindelijke besef te hebben van wat er aan de hand was ben ik terecht gekomen bij Jocko Willink. Deze man heeft me dingen geleerd die van pas gekomen zijn in mijn leven sinds. Dingen zoals dat **discipline zorgt voor vrijheid, dat leidinggevende een enorme verantwoordelijkheid hebben, hoe je misschien niet technisch bent aangelegd maar het daarvoor wel nog kan leren, hoe je niet moet opgeven, hoe tegenslagen normaal zijn en hoe je ermee om kunt gaan en de aller belangrijkste voor mij. Never ever give up hope.** 
+
+**so without further ado, let's talk about the interview!**
 
 # Freedom
 
