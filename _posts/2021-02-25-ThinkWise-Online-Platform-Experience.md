@@ -46,6 +46,18 @@ Wat ook erg opviel was hoe het platform erg gericht is naar een ERP oplossing. H
 
 Wat wel opviel was hoe het er allemaal wel wat complex uit zag, ook al wordt low code altijd beschreven als een gemakkelijk manier van het ontwikkelen van apps. Verder was het erg interessant om alles eens snel te doorbladeren maar was het voor mij zeker niet voldoende om te geloven in low code. Daarom zal ik dus ook voor mijn bachelor proef zelf eens een kijkje nemen in de demo!
 
+# Demo
+
+Omdat Bel&Bo nog verdere stappen heeft gezet naar een samenwerking met ThinkWise heb ik nog wat extra leuke details te vertellen over verdere presentaties en onderhandelingen. Na de laatste onderhandeling vertelde mijn stagementor over mijn bachelor proef, omdat ze geïnteresseerd waren gaven ze mij toegang tot hun platform. 
+
+ThinkWise hun platform is geen lachertje, voor mijn bachelor proef heb ik eens een kijkje mogen nemen op hun platform en wat ik daar allemaal te zien kreeg was intens. Er zijn duizenden opties en elk met enorm veel configuratie mogelijkheden. Zelf was het mijn bedoeling om een basic CRUD applicatie te creëren via hun platform maar omdat het zodanig ingewikkeld is wat dit jammer genoeg niet mogelijk.
+
+Na een 4 tal uur proberen en vooral sukkelen op de applicatie heb ik moeten concluderen dat het niet mogelijk is zonder verdere opleiding. Jammer genoeg moet ik ook concluderen dan hun handleiding alles behalve is. 
+
+Na ondertussen al gewerkt te hebben in enkele andere low code platformen bleef er toch wel een raar gevoel hangen. In een ander bedrijf hun demo heb ik een CRUD applicatie kunnen bouwen in ongeveer 3 uur en een half. Daarom vrees ik een beetje voor ThinkWise. 
+
+Zelf zou ik hun de titel LCAP niet gunnen omdat het te intens, veel te ingewikkeld en enorm onoverzichtelijk is. Desondanks zal er toch een heel goed product moeten verstopt zitten achter al deze configuratie opties want hun succesverhalen zijn zeker niet niets.  
+
 # Reflectie
 
 Zelf ben ik niet meteen voorstander van low-code, daarom luid mijn bachelorproef onderzoeksvraag "Is low code effective?". Zelf was ik niet meteen erg onder de indruk van het platform maar ik kan wel zeker het nut ervan inzien. 
@@ -55,3 +67,9 @@ Zelf bied Thinkwise ook opleidingen aan voor bedrijven die uiteindelijk de stap 
 Verder was ik wel onder de indruk van hun uitwerking om zo future-proof te werk te gaan en zo weinig mogelijk lasten bij de klant te leggen. Het is een erg doordacht en goed systeem die hun zeker een top plaats op de low-code markt bezorgd! 
 
 Bedankt voor het lezen en nog een fijne dag! 
+
+
+
+**Kleine update sinds het volgen van extra sessies:** 
+
+Het gehele nut van Low Code programmeren is dat het een mogelijkheid bied aan minder IT gerichte mensen om toch applicaties te bouwen zonder extreme kennis en vaardigheden. Daarom maak ik mij enorm veel zorgen om het ThinkWise platform, want als een student IT nog niet eens zelf kan uitzoeken hoe hij een Excel Database importeert dan vrees ik ervoor. 
