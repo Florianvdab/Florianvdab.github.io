@@ -8,7 +8,7 @@ Na het volgen van meerdere pure informatica sessies heb ik besloten om eens aand
 
 Het interview is tussen SUCCESS (een magazine) en Jocko Willink. SUCCES is een magazine die zich bezighoud met het interviewen of spreken over succesverhalen en ervaringen van experts/succesvolle mensen. Jocko is een gepensioneerd Navy SEAL (Amerikaanse Special Forces) die zich momenteel bezig houd met het schrijven van boeken, opnemen van podcasts en het aanleren van leiderschap aan bedrijven via zijn eigen bedrijf genaamd: Origin USA. 
 
-<img src="https://i.pinimg.com/736x/a5/9a/d5/a59ad5ab287e1565b392620d5080737e.jpg" alt="img" style="zoom: 33%;" />
+<img src="https://i.pinimg.com/736x/a5/9a/d5/a59ad5ab287e1565b392620d5080737e.jpg" alt="img" style="zoom: 50%;" />
 
 Om een beetje context te geven over waarom deze onderwerpen zo belangrijk zijn voor mij en mogelijks ook voor anderen: enkele jaren terug zijn mijn ouders beginnen scheiden en stond ik er opeens alleen voor met een eigen huishouden en een situatie waar ik samenwoon met 1 iemand anders. Al heel snel zakte ik weg in een depressief putje en deed ik geen moeite voor mijn opleiding of om mezelf gezond te houden. 
 
