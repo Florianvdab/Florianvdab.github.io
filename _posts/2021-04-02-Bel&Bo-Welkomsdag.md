@@ -5,7 +5,7 @@ date: 2021-03-09
 
 ---
 
-*Beste lezers, eerst en vooral wil ik iets mededelen: dit evenement was niet publiek toegankelijk en is niet (volledig) over IT, maar aangezien ik mijn stage in het bedrijf doe is het van onschatbare waarde om te documenteren en bespreken. *
+*Beste lezers, eerst en vooral wil ik iets mededelen: dit evenement was niet publiek toegankelijk en is niet (volledig) over IT, maar aangezien ik mijn stage in het bedrijf doe is het van onschatbare waarde om te documenteren en bespreken.*
 
 # Hoe, Wat, Waar & Wanneer?
 
