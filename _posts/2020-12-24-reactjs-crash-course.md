@@ -4,7 +4,7 @@ title: "React JS Crash Course 2021"
 date: 2020-10-24
 ---
 
-Hallo daar beste blog lezers, vandaag zal ik even bloggen over een React JS Course. Toen ik deze cursus volgde was er enkel een 2020 editie beschikbaar maar sinds is er een nieuwere versie verschenen op YouTube. Vandaar de de mogelijkse verwarring in datums.
+Hallo beste blog lezers, vandaag zal ik even bloggen over een React JS Course. Toen ik deze cursus volgde was er enkel een 2020 editie beschikbaar maar sinds is er een nieuwere versie verschenen op YouTube. Vandaar de de mogelijkse verwarring in datums.
 
 ![image-20210515100021635](https://florianvdab.github.io/assets/images/image-20210515100021635.png)
 

@@ -5,7 +5,7 @@ date: 2020-11-24
 
 ---
 
-Hoi beste bloglezers, in deze blog zal ik jullie wat vertellen over Hack The Future. Voor Hack The Future had ik nog nooit echt meegewerkt aan een hackaton. Ik moet toegeven dat ik aangenaam verrast was over wat een hackaton precies was. Vroeger dacht ik dat het ook effectief te maken had met inbreken zonder effectieve toegang te hebben, maar door deze hackaton heb ik geleerd dat het eigenlijk gezamenlijk een project creëren is. 
+Hoi beste bloglezers, in deze blog zal ik jullie wat vertellen over Hack The Future. Voor Hack The Future had ik nog nooit echt deelgenomen aan een hackaton. Ik moet toegeven dat ik aangenaam verrast was over wat een hackaton precies is. Vroeger dacht ik dat het ook effectief te maken had met inbreken zonder effectieve toegang te hebben, maar door deze hackaton heb ik geleerd dat het eigenlijk gezamenlijk een project creëren is. 
 
 Hack The Future werkte dus ook met teams, omdat ik Anton Plancke al jaren ken was het een erg logische keuze om dit samen met hem te doen. We zijn beiden goed vertrouwt met elkaar, en elkaars manier van werken dus alles verliep erg vlot tussen ons. Als groepsnaam kozen we "Prinsesjes", beetje humor kan nooit kwaad!
 
@@ -179,7 +179,7 @@ render() {
 
 ## ⚡  Isolate
 
-Plug the power of the datacenter throwing the most errors!
+Weer wat context: "Plug the power of the datacenter throwing the most errors!"
 
 This can be accomplished by POSTing to `/datacenters/{id}/isolate`.
 

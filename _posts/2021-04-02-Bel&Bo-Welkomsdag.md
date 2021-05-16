@@ -74,12 +74,10 @@ Door het opbouwen van duurzame klantenrelaties, door als team continue te groeie
   - Vermogen van de organisatie als geheel en van de medewerkers
   - Beschikbaarheid van middelen
   - Legt doelstellingen vast per afdeling voor komende 6 maanden en/of langer
-  - **Wie?** Mr Michel, Lode, Luc, Inge en Charlotte + afdeling in kwestie
-
+  
 - **OM - beheren van korte termijn**
   - Dagdagelijkse operatie
   - Wekelijkse vergadering op maandag namiddag
-  - Wie? Mr Michel, Lode, Inge, Luc, Charlotte, Gino (HR), Isabel (marketing) + per onderwerp
 - Stijl van samenwerken
   - Overlegcultuur
   - Samenwerken = diversiteit van ieder perspectief leidt tot een gezamenlijk gedragen besluit (1+1=3)
